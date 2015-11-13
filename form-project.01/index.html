@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+  <title>Form Validation with javascript</title>
+  <script src="Validate.js" type="text/javascript"></script>
+</head>
+<body>
+  <div id="wrapper">
+    <div id="content">
+      <p>Please enter your first name, last name, and your age.</p>
+      <h1>First Name:
+        <input type="text" id="firstName" placeholder="Enter your first name." size="50"><br>
+        <span id="fNameError"></span>
+        Last Name: <input type="text" id="lastName" placeholder="Enter your last name." size="50"><br>
+        Age: <input type="number" id="age"  placeholder="Enter your age." >
+        <br>
+        <button id="Submit" type="submit" onClick="validateAll()">Submit</button>
+        <!--Validate method does the work-->
+      </h1>
+      <div id="myoutput"></div>
+    </div>
+  </body>
+  </html>
