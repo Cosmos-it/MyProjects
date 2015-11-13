@@ -1,0 +1,10 @@
+1021010  Benson,Mike 2.78
+1020890  Parham,Gioia 3.72
+2829314  Smith,John 3.75
+1020890  Qicach,Laurie 3.21
+5020493  Gaskins,Fred 3.83
+3024890  Benzema,Todd 3.17
+1020890  Estes,Mike 3.90
+4021872  Kirkut,Stefanie 3.88
+1829316  Smith,John 3.75
+2829314  Smith,John 3.01

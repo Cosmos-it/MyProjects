@@ -1,0 +1,4 @@
+Lic#: 161723 |D.O.B: 8/18/1942 |Expires: 2017 |SSN:98-38-68126 |L.name AndersonF.name Michael M.I: R|Major.V: 0 |Minor.V: 1 |Regular.V 1 |D.O.V: 7/28/2013 |Offence Code:3008
+Lic#: 344822 |D.O.B: 10/25/1945 |Expires: 2017 |SSN:98-39-69999 |L.name RossF.name Wyatt M.I: P|Major.V: 0 |Minor.V: 1 |Regular.V 2 |D.O.V: 12/4/2014 |Offence Code:3001
+Lic#: 801000 |D.O.B: 5/24/1955 |Expires: 2015 |SSN:98-55-18676 |L.name NguyenF.name Nate M.I: D|Major.V: 0 |Minor.V: 0 |Regular.V 1 |D.O.V: 7/29/2013 |Offence Code:3010
+Lic#: 983973 |D.O.B: 3/23/1952 |Expires: 2015 |SSN:98-32-17006 |L.name MitchellF.name Griffin M.I: A|Major.V: 0 |Minor.V: 0 |Regular.V 2 |D.O.V: 5/10/2014 |Offence Code:3002
